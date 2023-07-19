@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{823D3878-EB2E-4B85-AA02-B7EB4622A83E}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="aspDotNetCoreAPI/WeatherForecast.cs">
+    <Files>
+      <File FileName="aspDotNetCoreAPI/Data/ApplicationDbContext.cs" />
+      <File FileName="aspDotNetCoreAPI/appsettings.json" />
+      <File FileName="aspDotNetCoreAPI/Program.cs" />
+      <File FileName="aspDotNetCoreAPI/Controllers/WeatherForecastController.cs" />
+      <File FileName="aspDotNetCoreAPI/WeatherForecast.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aspDotNetCoreAPI" expanded="True">
+            <Node name="aspDotNetCoreAPI" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="WeatherForecast.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.aspDotNetCoreAPI PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>
